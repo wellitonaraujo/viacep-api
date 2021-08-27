@@ -1,2 +1,2 @@
 # viacep-api
-Consumindo API Viacep com verificação de cep inválido/existente, com JavaScript puro :)
+Consumindo API Viacep com verificação de cep válido/existente, com JavaScript puro :)
